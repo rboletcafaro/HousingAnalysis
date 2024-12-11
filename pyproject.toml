@@ -39,7 +39,7 @@ dependecies = [
     
 ]
 
-classifiers = [
+#classifiers = [
   # How marure is this project? Common values are
   #  1 - Planning
   #  2 - Pre-Alpha
@@ -48,14 +48,14 @@ classifiers = [
   #  5 - Production / Stable
   #  6 - Mature
   #  7 - Inactive
-  "Development Status :: 1 - Planning", 
-  "Intended Audience: Economists, Quantitative Analysts, Housing Sector Analysts",
-  "Topic :: Quantitative Analysis of the Housing Sector",
-  "Programming Language :: Python :: 3",
-  "Programming Language :: Python :: 3.10",
-  "Programming Language :: Python :: 3.11",
-  "Programming Language :: Python :: 3.12",
-]
+#  "Development Status :: 1 - Planning", 
+#  "Intended Audience: Economists, Quantitative Analysts, Housing Sector Analysts",
+#  "Topic :: Quantitative Analysis of the Housing Sector",
+#  "Programming Language :: Python :: 3",
+#  "Programming Language :: Python :: 3.10",
+#  "Programming Language :: Python :: 3.11",
+#  "Programming Language :: Python :: 3.12",
+#]
 
 [project.urls]
 Homepage = "https://github.com/rboletcafaro/HousingAnalysis"
