@@ -3,21 +3,19 @@ requires = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-requires-python = ">=3.10"
-version = "0.0.1"
-dynamic = []
 name = "HousingAnalysis"
+version = "0.0.1"
+description = "Housing Analysis repo"
+readme = "README.md"
+license = {text = "MIT License"}
+keywords = ["housing", "machine learning", "statistics", "economics"]
 authors = [
   {name = "RBC"}
 ]
 maintainers = [
   {name = "RBC"}
 ]
-description = "Housing Analysis repo"
-readme = "README.md"
-license = {text = "MIT License"}
-keywords = ["housing", "machine learning", "statistics", "economics"]
-
+requires-python = ">=3.10"
 dependecies = [
     "pandas>=2.0.0",
     "numpy>=2.0.0",
@@ -34,30 +32,9 @@ dependecies = [
     "prophet >= 1.1.6",
     "darts >= 0.31.0",
     "pycaret >= 3.3.2",
-    
-    
-    
-]
-
-#classifiers = [
-  # How marure is this project? Common values are
-  #  1 - Planning
-  #  2 - Pre-Alpha
-  #  3 - Alpha
-  #  4 - Beta
-  #  5 - Production / Stable
-  #  6 - Mature
-  #  7 - Inactive
-#  "Development Status :: 1 - Planning", 
-#  "Intended Audience: Economists, Quantitative Analysts, Housing Sector Analysts",
-#  "Topic :: Quantitative Analysis of the Housing Sector",
-#  "Programming Language :: Python :: 3",
-#  "Programming Language :: Python :: 3.10",
-#  "Programming Language :: Python :: 3.11",
-#  "Programming Language :: Python :: 3.12",
-#]
+    ]
 
 [project.urls]
-Homepage = "https://github.com/rboletcafaro/HousingAnalysis"
-Repository = "https://github.com/rboletcafaro/HousingAnalysis"
+homepage = "https://github.com/rboletcafaro/HousingAnalysis"
+repository = "https://github.com/rboletcafaro/HousingAnalysis"
 
