@@ -60,5 +60,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/rboletcafaro/HousingAnalysis"
 Repository = "https://github.com/rboletcafaro/HousingAnalysis"
-Dashboard = ""
 
