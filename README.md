@@ -8,10 +8,9 @@ Therefore, in this project, my focus is on housing. It's a hot topic as currentl
 
 This README will outline the following things:
 
-## How To Use This Repo:
+## How To Use This Project:
 * How to run and install
 
-## How To Use This Project:
 
 ## Data Sources and General Timing Of Updates:
 
